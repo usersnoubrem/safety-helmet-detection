@@ -1,0 +1,4 @@
+ultralytics==8.2.1  # YOLOv8 框架
+opencv-python==4.9.0.80  # 图像处理
+numpy==1.26.4  # 数值计算（使用稳定的1.x版本）
+pyyaml==6.0.1  # 配置文件解析
